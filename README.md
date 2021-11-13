@@ -1,7 +1,8 @@
 ##  Kaggle NFL Health & Safety - Helmet Assignment 64th/833
 
-Thanks for the contribution of my teammates [@AlvinAi96](https://github.com/AlvinAi96) and [@Leonrain-Liu](https://github.com/Leonrain-Liu).
-For more information, please visit [复盘总结](https://zhuanlan.zhihu.com/p/429141533)
+Thanks for the contribution of my teammates [@shaoeric](https://github.com/shaoeric) and [@Leonrain-Liu](https://github.com/Leonrain-Liu).
+For more information, please visit [刘兄的复盘总结](https://zhuanlan.zhihu.com/p/429141533) 和 [我的复盘总结](https://mp.weixin.qq.com/s/p_ODDR67ZCugJdXgXbdnuw)
+
 ### Competition introduction
 
 - competition link: [NFL Health & Safety - Helmet Assignment](https://www.kaggle.com/c/nfl-health-and-safety-helmet-assignment/overview)
